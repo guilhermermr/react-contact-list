@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 React Contact Manager
 
 🚀 Descrição
